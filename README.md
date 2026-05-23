@@ -1,16 +1,23 @@
-## Hi there 👋
+Hey There👋
 
-<!--
-**As3l/As3l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jahziel, a Computer Science student at the University of the Cordilleras
 
-Here are some ideas to get you started:
+I’m passionate about Software Development, Game Development, and Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building personal and collaborative projects while continuously improving my programming skills
+_________________________________________________________________________________________________________________________________________________
+
+Tool & Tech
+  * PROGRAMING: Python, C++, C#, Java
+  * GAME DEVELOPMENT: Godot, Blender
+  * MACHINE LEARNING: Google Colab
+  * UX/UI: Figma 
+
+_________________________________________________________________________________________________________________________________________________
+
+A Bit About Me
+
+* 🏐Plays Volleyball
+* 📺I watch TV Series and Anime
+* 🛠️I like developing random things
+* 🐞Wierdly enjoys debugging
