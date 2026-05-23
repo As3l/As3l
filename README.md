@@ -21,7 +21,6 @@ ________________________________________________________________________________
 * 📺I watch TV Series and Anime
 * 🛠️I like developing random things
 * 🐞Wierdly enjoys debugging
----
 
-(https://github-readme-stats.vercel.app/api?username=As3l)
+
 
