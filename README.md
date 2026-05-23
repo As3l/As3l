@@ -5,7 +5,7 @@ I'm Jahziel, a Computer Science student at the University of the Cordilleras
 I’m passionate about Software Development, Game Development, and Artificial Intelligence.
 
 I enjoy building personal and collaborative projects while continuously improving my programming skills
-_________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________
 
 Tool & Tech
   * PROGRAMING: Python, C++, C#, Java
@@ -13,7 +13,7 @@ Tool & Tech
   * MACHINE LEARNING: Google Colab
   * UX/UI: Figma 
 
-_________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________
 
 A Bit About Me
 
@@ -21,3 +21,6 @@ A Bit About Me
 * 📺I watch TV Series and Anime
 * 🛠️I like developing random things
 * 🐞Wierdly enjoys debugging
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
