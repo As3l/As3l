@@ -23,5 +23,5 @@ ________________________________________________________________________________
 * 🐞Wierdly enjoys debugging
 ---
 
-Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=As3l)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=As3l)
 
