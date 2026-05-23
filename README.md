@@ -1,4 +1,4 @@
-Hey There👋
+# Hey There👋
 
 I'm Jahziel, a Computer Science student at the University of the Cordilleras
 
@@ -7,7 +7,7 @@ I’m passionate about Software Development, Game Development, and Artificial In
 I enjoy building personal and collaborative projects while continuously improving my programming skills
 _______________________________________________________________________________________________________________________________________________
 
-Tool & Tech
+## Tool & Tech
   * PROGRAMING: Python, C++, C#, Java
   * GAME DEVELOPMENT: Godot, Blender
   * MACHINE LEARNING: Google Colab
@@ -15,12 +15,13 @@ Tool & Tech
 
 _______________________________________________________________________________________________________________________________________________
 
-A Bit About Me
+## A Bit About Me
 
 * 🏐Plays Volleyball
 * 📺I watch TV Series and Anime
 * 🛠️I like developing random things
 * 🐞Wierdly enjoys debugging
+---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=As3l)](https://github.com/anuraghazra/github-readme-stats)
 
